@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WHWebService.iOS", "WHWebService.iOS\WHWebService.iOS.csproj", "{946C193F-3E11-467C-8891-802BCFAAEE08}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "WHWebService", "WHWebService\WHWebService.shproj", "{058F6A50-D8A7-433E-82B4-1383E5F47D21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{946C193F-3E11-467C-8891-802BCFAAEE08}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{946C193F-3E11-467C-8891-802BCFAAEE08}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{946C193F-3E11-467C-8891-802BCFAAEE08}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{946C193F-3E11-467C-8891-802BCFAAEE08}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{946C193F-3E11-467C-8891-802BCFAAEE08}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{946C193F-3E11-467C-8891-802BCFAAEE08}.Debug|iPhone.Build.0 = Debug|iPhone
+		{946C193F-3E11-467C-8891-802BCFAAEE08}.Release|iPhone.ActiveCfg = Release|iPhone
+		{946C193F-3E11-467C-8891-802BCFAAEE08}.Release|iPhone.Build.0 = Release|iPhone
+	EndGlobalSection
+EndGlobal
